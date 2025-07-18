@@ -68,15 +68,9 @@
 
 ## 🎮 Play My Snake Game!
 
-<a href="https://yourusername.github.io/snake-game/" target="_blank">
-  <img src="https://raw.githubusercontent.com/yourusername/snake-game/main/preview.gif" alt="Snake Game Preview" width="600"/>
+<a href="https://raexxne.github.io/snake-game/" target="_blank">
+  <img src="https://raw.githubusercontent.com/raexxne/snake-game/main/preview.gif" alt="Snake Game Preview" width="600"/>
 </a>
-
-<p align="center">
-  <a href="https://yourusername.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20to%20Play-Snake%20Game-green?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
